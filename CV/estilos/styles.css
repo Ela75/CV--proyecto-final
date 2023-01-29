@@ -1,0 +1,36 @@
+* {
+    font-family: 'Dosis', sans-serif; 
+}
+
+
+img{
+    border: 02px outset green;
+    width: 300px;
+    float: top;
+    margin: 50px;
+       
+    
+}
+
+.clasenombre{
+    font-size-adjust: inherit;
+    color: green;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Lobster', cursive;
+
+}
+
+.contacto {
+    color: green;
+    font-size: large;
+    font: caption;
+}
+
+.experiencia {
+    width: 220px;
+}
+
+* {
+    background-color: lavender;
+}
+
